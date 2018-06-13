@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sfridman/gatsby-starter-bootstrap-netlify # Path to your Github repository
+  repo: sfridman/gatsby-starter-bootstrap-netlify 
 
 media_folder: "/static/files/"
 public_folder: "/files/"
